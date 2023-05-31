@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6237598521",
+    "project_id": "beldo-e4365",
+    "storage_bucket": "beldo-e4365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6237598521:android:0e1881008492c6b05ceee8",
+        "android_client_info": {
+          "package_name": "com.testmoneyking.sdfsdfsdfsdfs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6237598521-gaicpk0pgq5tlqmo2iqabln6j7slt5ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB51mfQwQR1VCkeKQWgrStQgsR0nMV4mng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6237598521-gaicpk0pgq5tlqmo2iqabln6j7slt5ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
